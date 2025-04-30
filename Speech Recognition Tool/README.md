@@ -21,9 +21,9 @@ To run the Speech Recognition Assistant, follow these steps:
 
 1. Clone the repository:
    ```shell
-   git clone(https://github.com/AbinandhMJ/Python-ALEXA-SpeechRecognition-Assistant)
+   git clone(https://github.com/mahanaraboyina/SpeechRecognitionTool)
 2. Navigate to the project directory:
-   `` cd Speech-Recognition-Assistant
+   `` cd SpeechRecognitionTool
    ``
 3. Install the required dependencies:
    ``pip install -r requirements.txt
@@ -58,9 +58,3 @@ To run the Speech Recognition Assistant, follow these steps:
 Contributions to the Speech Recognition Assistant project are welcome. If you encounter any issues, have suggestions for improvements, or want to add new features, please feel free to submit a pull request.
 
 
-Please make sure to update tests as appropriate.
-
-## License
-This project is licensed under the
-[MIT License.](https://choosealicense.com/licenses/mit/) 
-If you have any further questions, feel free to ask!
